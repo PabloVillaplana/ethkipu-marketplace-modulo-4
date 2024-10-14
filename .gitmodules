@@ -7,3 +7,6 @@
 [submodule "backend/foundry_ethkipu/lib/forge-std"]
 	path = backend/foundry_ethkipu/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "backend/foundry_ethkipu/lib/openzeppelin-foundry-upgrades"]
+	path = backend/foundry_ethkipu/lib/openzeppelin-foundry-upgrades
+	url = https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades
