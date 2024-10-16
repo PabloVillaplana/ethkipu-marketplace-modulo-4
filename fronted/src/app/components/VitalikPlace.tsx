@@ -5,7 +5,6 @@ import { useAccount, useConnect, useContractRead, useDisconnect, useConfig } fro
 import { parseEther } from 'viem';
 import { writeContract } from '@wagmi/core';
 
-// Asegúrate de reemplazar esta dirección con la dirección real de tu contrato desplegado
 const CONTRACT_ADDRESS = '0xf03D1c6FcdD47EcE6FFf6832c2Cb2e6871452f58' as `0x${string}`;
 
 const VitalikPlace = () => {
